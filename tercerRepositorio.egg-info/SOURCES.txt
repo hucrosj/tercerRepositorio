@@ -1,0 +1,7 @@
+README.md
+setup.py
+tercerRepositorio/__init__.py
+tercerRepositorio.egg-info/PKG-INFO
+tercerRepositorio.egg-info/SOURCES.txt
+tercerRepositorio.egg-info/dependency_links.txt
+tercerRepositorio.egg-info/top_level.txt
